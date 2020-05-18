@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589842239 source:c:\users\valeria\desktop\gilvaleriappp\caracteres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589842259 source:c:\users\valeria\desktop\gilvaleriappp\main.c
+	<stdio.h>
+	<stdlib.h>
+
